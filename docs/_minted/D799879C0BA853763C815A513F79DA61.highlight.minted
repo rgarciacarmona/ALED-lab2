@@ -1,0 +1,6 @@
+\begin{MintedVerbatim}[commandchars=\\\{\}]
+\PYG{k+kt}{long}\PYG{+w}{ }\PYG{n}{runningTime}\PYG{+w}{ }\PYG{o}{=}\PYG{+w}{ }\PYG{n}{System}\PYG{p}{.}\PYG{n+na}{nanoTime}\PYG{p}{()}\PYG{+w}{ }\PYG{o}{\PYGZhy{}}\PYG{+w}{ }\PYG{n}{startTime}\PYG{p}{;}
+\PYG{n}{System}\PYG{p}{.}\PYG{n+na}{out}\PYG{p}{.}\PYG{n+na}{println}\PYG{p}{(}\PYG{l+s}{\PYGZdq{}Tiempo de computePositions para un segmento con \PYGZdq{}}
+\PYG{+w}{                   }\PYG{o}{+}\PYG{+w}{ }\PYG{n}{link}\PYG{p}{.}\PYG{n+na}{getChildren}\PYG{p}{().}\PYG{n+na}{size}\PYG{p}{()}\PYG{+w}{ }\PYG{o}{+}\PYG{+w}{ }\PYG{l+s}{\PYGZdq{} hijos: \PYGZdq{}}
+\PYG{+w}{                   }\PYG{o}{+}\PYG{+w}{ }\PYG{n}{runningTime}\PYG{+w}{ }\PYG{o}{+}\PYG{+w}{ }\PYG{l+s}{\PYGZdq{} nanosegundos\PYGZdq{}}\PYG{p}{);}
+\end{MintedVerbatim}
