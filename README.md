@@ -1,4 +1,4 @@
-# AED - Práctica 2: Cinemática directa de un exoesqueleto
+# ALED - Práctica 2: Cinemática directa de un exoesqueleto
 
 Código base para la práctica 2 de Algoritmos y Estructuras de Datos
 (Grado en Ingeniería Biomédica, UPM).
