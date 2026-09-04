@@ -1,6 +1,7 @@
 # Licencia del código
 
-Se aplica al código fuente (`src/`). Los enunciados se rigen por
+Se aplica al código fuente (`src/`) y a las animaciones
+(`animations/`). Los enunciados se rigen por
 [`LICENSE-DOCS.md`](LICENSE-DOCS.md).
 
 MIT License
